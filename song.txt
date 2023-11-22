@@ -1,5 +1,1 @@
-Roses are red 
-Violets are blue
-Can I hide my
-pocket
-smt smt
+New commit for testing rebase
