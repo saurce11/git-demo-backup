@@ -1,1 +1,1 @@
-New commit for testing rebase
+Another line for testing git rebase
